@@ -24,8 +24,8 @@ The calculator takes two numbers and an operator (`+`, `-`, `*`, `/`) as input, 
    ```bash
    git clone https://github.com/rahulpatel025/calculator-node.git
    cd calculator-node
-  ## Install dependencies: npm install prompt-sync
-  ## Run the program: node basic.js
+  1.Install dependencies: npm install prompt-sync
+   2.Run the program: node basic.js
 
 ## 📖 How It Works
 
