@@ -39,7 +39,7 @@ Validation → handles invalid inputs and division by zero.
 
 Output → displays result in formatted style:
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Through this project, I practiced:
 
